@@ -1,7 +1,7 @@
 
 # Awesome Genealogy OSINT Sources
 
-This list is curated based on the insights shared in the presentation on **Genealogy and OSINT**. It covers a wide range of valuable resources for conducting genealogical research through open-source intelligence (OSINT). Whether you're tracing your family history, looking for historical records, or seeking military documents, this list provides a comprehensive collection of tools, platforms, and databases. **Contributions and additions are welcome.**
+This list is curated based on the insights shared in the presentation on **[Genealogy and OSINT](https://youtu.be/Tgw5X6jpFX4)**. It covers a wide range of valuable resources for conducting genealogical research through open-source intelligence (OSINT). Whether you're tracing your family history, looking for historical records, or seeking military documents, this list provides a comprehensive collection of tools, platforms, and databases. **Contributions and additions are welcome.**
 
 ---
 
