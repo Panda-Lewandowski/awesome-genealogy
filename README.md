@@ -35,6 +35,7 @@ This list is curated based on the insights shared in the presentation on **[Gene
 - **[FindAGrave](https://www.findagrave.com/)** — A database of global grave sites, often with photos and family information.
 - **[Geni](https://www.geni.com/)** — A collaborative platform for building family trees with users worldwide.
 - **[Geneanet](https://en.geneanet.org/)** — A resource for genealogy with user-contributed records and rare documents.
+- **[Cestry](https://cestry.app/)** — Free iOS app that uses AI to estimate ancestry, ethnicity composition and regional heritage from a single selfie — useful as a starting hypothesis before deeper archive or DNA research. Available globally (including markets where DNA kits don't ship) in 38 languages.
 
 ---
 
