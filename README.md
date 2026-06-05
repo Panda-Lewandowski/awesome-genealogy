@@ -40,6 +40,7 @@ This list is curated based on the insights shared in the presentation on **[Gene
 
 ## 📖 Literature and Articles
 - **[Cyndi’s List](https://www.cyndislist.com/)** — A comprehensive index of genealogy websites and resources, ideal for researchers.
+- **[FinalNotes Obituary Research Guide](https://www.finalnotes.page/obituary-research-guide/)** — A practical guide to finding obituary records, preserving source trails, and turning obituary clues into sourced family-history stories.
 - **[Rodovid](https://ru.rodovid.org/)** — Open-source genealogy platform with user-generated data.
 - **[VGD Knowledge Base](https://baza.vgd.ru/)** — Russian-based knowledge base for family history research and guidance.
 
@@ -65,4 +66,3 @@ This list is curated based on the insights shared in the presentation on **[Gene
 
 This list should serve as a valuable starting point for anyone researching their family history through open-source intelligence. Contributions and updates to this list are welcome, as the world of genealogy research is always evolving.
 It would be great to gather sources for research on genealogy and heraldry across different countries, creating a comprehensive global resource for exploring noble families and historical records.
-
