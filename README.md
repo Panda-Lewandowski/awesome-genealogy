@@ -35,6 +35,7 @@ This list is curated based on the insights shared in the presentation on **[Gene
 - **[FindAGrave](https://www.findagrave.com/)** — A database of global grave sites, often with photos and family information.
 - **[Geni](https://www.geni.com/)** — A collaborative platform for building family trees with users worldwide.
 - **[Geneanet](https://en.geneanet.org/)** — A resource for genealogy with user-contributed records and rare documents.
+- **[Mingzi Chinese Surnames & Naming Guide](https://mingzi.io/chinese-names/last-names)** — Reference directory of 100 Chinese family names (Baijiaxing), Hanzi character origins, dialect romanizations, and naming traditions for Chinese diaspora genealogy.
 
 ---
 
